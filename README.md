@@ -13,6 +13,8 @@
 
 **[Repository](https://github.com/navendhiran007/book-a-doctor)** · **[Backend](backend/)** · **[Frontend](frontend/)**
 
+**[Project Documentation](https://drive.google.com/drive/folders/1D9g4avf1H1KZgxIybZJ5C1AMQkQHkSxb?usp=sharing)** · **[Project Video](https://drive.google.com/drive/folders/1zTvhOIsNH-8Mz8xShseyUr-a_7F2ebs7?usp=sharing)**
+
 </div>
 
 ## Contents
