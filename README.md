@@ -6,11 +6,22 @@ A Role-Based Healthcare Appointment Booking and Management Platform
 </p>
 
 <p align="center">
+📘 <strong>Project Documentation:</strong>
+<a href="https://drive.google.com/drive/folders/1lECpc1WkaxaIMLJEfghR42fDPfcWh8Hz?usp=sharing">View Complete Project Documentation</a>
+<br/><br/>
 <a href="https://github.com/navendhiran007/book-a-doctor">Repository</a> •
 <a href="backend/">Backend</a> •
 <a href="frontend/">Frontend</a> •
-<a href="https://drive.google.com/drive/folders/1lECpc1WkaxaIMLJEfghR42fDPfcWh8Hz?usp=sharing">Documentation</a> •
 <a href="https://drive.google.com/drive/folders/1zTvhOIsNH-8Mz8xShseyUr-a_7F2ebs7?usp=sharing">Project Video</a>
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/MongoDB-Database-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+<img src="https://img.shields.io/badge/Express.js-Backend-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express"/>
+<img src="https://img.shields.io/badge/React-Frontend-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+<img src="https://img.shields.io/badge/Node.js-Runtime-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+<img src="https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/Vite-Build_Tool-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"/>
 </p>
 
 <p align="center">
